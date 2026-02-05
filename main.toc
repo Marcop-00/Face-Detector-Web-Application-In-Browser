@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Planning}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Prompt Optimization}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}One-Shot Solution}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Security Improvements}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Verification Procedures}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Refinements and Debugging}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Deployment Strategy}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}The HTTPS Challenge in Isolated Environments}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Implementation: Standalone Secure Container}{4}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}1. Automated Certificate Generation (Dockerfile)}{4}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}2. Secure Server Configuration (Nginx)}{5}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Operational Verification}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Development Platform and Tools}{5}{section.5}%
+\contentsline {section}{\numberline {6}Cross-browser Testing}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Test Results}{6}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Validation Results}{6}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Efficiency}{6}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}CSP Security Refinements}{6}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}HTTPS Constraints and Media Access}{6}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Conclusion}{7}{section.8}%
