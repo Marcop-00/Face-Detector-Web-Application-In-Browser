@@ -18,9 +18,9 @@ RUN openssl req -x509 -nodes -days 365 \
 # 4. Copy your Custom Nginx Config
 COPY nginx.conf /etc/nginx/nginx.conf
 
-# 5. Copy your Application (Assuming your HTML file is named 'face_app.html')
-# We rename it to index.html so it loads automatically
-COPY index.html /usr/share/nginx/html/index.html
+# 5. Copy your Application files
+COPY index.html style.css script.js /usr/share/nginx/html/
+COPY assets/ /usr/share/nginx/html/assets/
 
 # Expose both HTTP and HTTPS ports
 EXPOSE 80
